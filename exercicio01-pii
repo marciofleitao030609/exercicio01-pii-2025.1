@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu blog</title>
+</head>
+<body>
+    <h1>Exercício de HTML e CSS 01 – Márcio Leitão</h1>
+    <hr>
+    <h2>Questão 02</h2>
+    <h1>Postagem 01</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare quam magna, eget tempor massa aliquam vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse nec sodales diam. Proin sed vehicula orci, nec porta elit. Cras odio erat, tincidunt eget mollis sed, vehicula id felis. Sed ipsum eros, tempus iaculis lectus varius, placerat euismod mauris. Quisque sed lacus porttitor, lobortis urna nec, hendrerit ipsum. Proin consequat non metus non consectetur. Ut vestibulum nec metus eu scelerisque. Phasellus varius odio vel hendrerit mattis.</p>
+    
+    <h2>Postagem 02</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare quam magna, eget tempor massa aliquam vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse nec sodales diam. Proin sed vehicula orci, nec porta elit. Cras odio erat, tincidunt eget mollis sed, vehicula id felis. Sed ipsum eros, tempus iaculis lectus varius, placerat euismod mauris. Quisque sed lacus porttitor, lobortis urna nec, hendrerit ipsum. Proin consequat non metus non consectetur. Ut vestibulum nec metus eu scelerisque. Phasellus varius odio vel hendrerit mattis.</p>
+
+    <h3>Postagem 03</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare quam magna, eget tempor massa aliquam vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse nec sodales diam. Proin sed vehicula orci, nec porta elit. Cras odio erat, tincidunt eget mollis sed, vehicula id felis. Sed ipsum eros, tempus iaculis lectus varius, placerat euismod mauris. Quisque sed lacus porttitor, lobortis urna nec, hendrerit ipsum. Proin consequat non metus non consectetur. Ut vestibulum nec metus eu scelerisque. Phasellus varius odio vel hendrerit mattis.</p>
+
+    <h4>Postagem 04</h4>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare quam magna, eget tempor massa aliquam vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse nec sodales diam. Proin sed vehicula orci, nec porta elit. Cras odio erat, tincidunt eget mollis sed, vehicula id felis. Sed ipsum eros, tempus iaculis lectus varius, placerat euismod mauris. Quisque sed lacus porttitor, lobortis urna nec, hendrerit ipsum. Proin consequat non metus non consectetur. Ut vestibulum nec metus eu scelerisque. Phasellus varius odio vel hendrerit mattis.</p>
+    
+    <h5>Postagem 05</h5>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare quam magna, eget tempor massa aliquam vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse nec sodales diam. Proin sed vehicula orci, nec porta elit. Cras odio erat, tincidunt eget mollis sed, vehicula id felis. Sed ipsum eros, tempus iaculis lectus varius, placerat euismod mauris. Quisque sed lacus porttitor, lobortis urna nec, hendrerit ipsum. Proin consequat non metus non consectetur. Ut vestibulum nec metus eu scelerisque. Phasellus varius odio vel hendrerit mattis.</p>
+
+    <h6>Postagem 06</h6>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare quam magna, eget tempor massa aliquam vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse nec sodales diam. Proin sed vehicula orci, nec porta elit. Cras odio erat, tincidunt eget mollis sed, vehicula id felis. Sed ipsum eros, tempus iaculis lectus varius, placerat euismod mauris. Quisque sed lacus porttitor, lobortis urna nec, hendrerit ipsum. Proin consequat non metus non consectetur. Ut vestibulum nec metus eu scelerisque. Phasellus varius odio vel hendrerit mattis.</p>
+    <hr>
+
+    <h2>Questão 03</h2>
+    <p><b>Texto em negrito</b></p>
+    <p><i>Este parágrafo está em itálico.</i></p>
+    <p><u>Parágrafo sublinhado...</u></p>
+    <p>Usando texto X<sup>2</sup> e X<sub>2</sub></p>
+    <hr>
+
+    <h2>Questão 04</h2>
+    <h1>Bebidas do Café Starbuzz</h1>
+
+    <h2>Mistura da Casa - R$ 1,49</h2>
+    <p>Uma mistura suave e delicada de cafés do México, Bolívia e Guatemala.</p>
+
+    <h2>Café arábico com leite - R$ 2,35</h2>
+    <p>Expresso, leite fervido e xarope de chocolate.</p>
+
+    <h2>Cappuccino - R$ 1,89</h2>
+    <p>Uma mistura de expresso, leite fervido e espuma.</p>
+
+    <h2>Chá Chai - R$ 1,85</h2>
+    <p>Uma bebida condimentada com chá preto, especiarias, leite e mel.</p>
+    <hr>
+    <p>Starbuzz Coffee 2017 &#169</p> 
+    <hr>
+
+    <h2>Questão 05</h2>
+    <p>Meus emojis favoritos:</p>
+    <p>&#128514; &#128522; &#128565; &#128580; &#129296; &#129297; &#129322; &#129395; &#129402; &#128128; &#128406; &#128129; &#127758; &#127760;</p>
+    <p>&#129328; &#128581; &#129318; &#129335; &#128125; &#129313; &#128064; &#128065; &#128068; &#128506; &#128013; &#127770; &#127773; &#127774;</p>
+    <hr>
+
+</body>
+</html>
